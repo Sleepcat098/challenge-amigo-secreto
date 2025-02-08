@@ -5,8 +5,8 @@
 - tambien te mostrara el listado de las personas que vayas agregando para jugar.
 - la funcion de sorteo tomara un amigo de manera aleatoria totalmente en automatico.
 <h1>¿Como jugar?</h1>
+
 - Empezaras a colocar Nombres de cualquier persona o sus iniciales.
 - El sistema automaticamente te va a mostrar el listado de los datos que vayas colocando.
 - Cuando todo este listo le clikearas al boton de sortear.
 - El juego te mostrara tu amigo secreto totalmente automatico.
-____________________________________________________________________________________________________________________________________________
