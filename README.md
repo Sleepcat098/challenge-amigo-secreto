@@ -9,4 +9,4 @@
 - El sistema automaticamente te va a mostrar el listado de los datos que vayas colocando.
 - Cuando todo este listo le clikearas al boton de sortear.
 - El juego te mostrara tu amigo secreto totalmente automatico.
-_____________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
